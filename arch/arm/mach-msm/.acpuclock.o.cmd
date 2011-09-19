@@ -112,6 +112,7 @@ deps_arch/arm/mach-msm/acpuclock.o := \
     $(wildcard include/config/cpu/freq/default/gov/conservative.h) \
     $(wildcard include/config/cpu/frq/default/interactive.h) \
     $(wildcard include/config/cpu/freq/default/gov/smartass.h) \
+    $(wildcard include/config/cpu/freq/default/gov/smartass2.h) \
     $(wildcard include/config/cpu/freq/debug.h) \
   include/linux/mutex.h \
     $(wildcard include/config/debug/mutexes.h) \

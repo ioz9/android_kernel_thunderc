@@ -2855,6 +2855,7 @@ deps_drivers/cpufreq/cpufreq.o := \
     $(wildcard include/config/cpu/freq/default/gov/conservative.h) \
     $(wildcard include/config/cpu/frq/default/interactive.h) \
     $(wildcard include/config/cpu/freq/default/gov/smartass.h) \
+    $(wildcard include/config/cpu/freq/default/gov/smartass2.h) \
   include/linux/device.h \
     $(wildcard include/config/debug/devres.h) \
     $(wildcard include/config/devtmpfs.h) \

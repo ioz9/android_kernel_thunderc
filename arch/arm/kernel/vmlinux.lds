@@ -1,7 +1,7 @@
 /*
  * Automatically generated C config: don't edit
  * Linux kernel version: 2.6.32.9
- * Sun Sep 11 23:13:20 2011
+ * Mon Sep 19 03:11:13 2011
  */
 /* ld script to make ARM Linux kernel
  * taken from the i386 version by Russell King
